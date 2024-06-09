@@ -16,7 +16,7 @@ function openEnvelope(type) {
         `,
         feliz: `
             <h2>Cuando estés feliz</h2>
-            <p>¡Mi amor! No sabes cuánto me llena de alegría verte feliz. Cada sonrisa tuya  me hace sentir increíblemente afortunado de tenerte conmigo. Tu felicidad es mi mayor tesoro, y saber que soy parte de ella me llena de felicidad. Quiero que disfrutes cada momento al máximo, celebrando con vos cada logro, cada alegría y cada sueño cumplido. Tu felicidad es mi prioridad, y voy a hacer todo lo posible para cumplirlo, para verte sonreír cada día más radiante. Sos mi fuente de inspiración, mi razón para creer en lo bueno de la vida, y estoy eternamente agradecido por tenerte a mi lado. Que esta felicidad que compartimos nos acompañe siempre en nuestro camino juntos. Siempre voy a estar acá para compartir cada alegría con mi amorcito leeendo. Si leiste esto me debes un besito.</p>
+            <p>¡Mi amor! No sabes cuánto me llena de alegría verte feliz. Cada sonrisa tuya  me hace sentir increíblemente afortunado de tenerte conmigo. Tu felicidad es mi mayor tesoro, y saber que soy parte de ella me llena de felicidad. Quiero que disfrutes cada momento al máximo, celebrando con vos cada logro, cada alegría y cada sueño cumplido. Tu felicidad es mi prioridad, y voy a hacer todo lo posible para cumplirlo, para verte sonreír cada día más radiante. Sos mi fuente de inspiración, mi razón para creer en lo bueno de la vida, y estoy eternamente agradecido por tenerte a mi lado. Que esta felicidad que compartimos nos acompañe siempre en nuestro camino juntos. Siempre voy a estar acá para compartir cada alegría con mi amorcito leeendo. Si leiste esto me debes una fotoculo.</p>
             <p>Te amo, Leo.</p>
         `,
         sola: `
