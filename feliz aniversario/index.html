@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz 17 meses de novios</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Feliz 17 meses de novios amor</h1>
+        <button onclick="showEnvelopes()">Ver cartas</button>
+        <div class="envelope-container" id="envelopes" style="display: none;">
+            <div class="envelope" onclick="openEnvelope('triste')">
+                <img src="images/triste.jpg" alt="Abrime cuando estés triste">
+                <div class="envelope-text">Abrime cuando estés triste</div>
+            </div>
+            <div class="envelope" onclick="openEnvelope('abrazo')">
+                <img src="images/abrazo.jpg" alt="Abrime cuando necesites un abrazo">
+                <div class="envelope-text">Abrime cuando necesites un abrazo</div>
+            </div>
+            <div class="envelope" onclick="openEnvelope('feliz')">
+                <img src="images/feliz.jpg" alt="Abrime cuando estés feliz">
+                <div class="envelope-text">Abrime cuando estés feliz</div>
+            </div>
+            <div class="envelope" onclick="openEnvelope('sola')">
+                <img src="images/sola.jpg" alt="Abrime cuando te sientas sola">
+                <div class="envelope-text">Abrime cuando te sientas sola</div>
+            </div>
+            <div class="envelope" onclick="openEnvelope('aniversario')">
+                <img src="images/aniversario.jpg" alt="Feliz 17 meses ABRIME YA!">
+                <div class="envelope-text">¡Feliz 17 meses ABRIME YA!</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content" id="envelope-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <!-- Aquí se mostrará el contenido de cada carta -->
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
