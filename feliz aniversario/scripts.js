@@ -6,7 +6,7 @@ function openEnvelope(type) {
     const envelopeContent = {
         triste: `
             <h2>Cuando estés triste</h2>
-            <p>Amor, entinedo que hay momentos en los que te sentis abrumada por la tristeza. Quiero que sepas que siempre voy a estar acá a tu lado, dispuesto a escucharte, a sostener tu mano cuando te sientas perdida. Nunca estás sola en esto, siempre vas a contar conmigo para compartir tus alegrías y aliviar tus penas. Mi amor por vos es incondicional y eterno, y cada día estoy más comprometido a caminar junto a vos, enfrentando juntos cada desafío que la vida nos presente. Te amo con todo mi ser, y siempre voy a estar para vos, sin importar qué. Si leiste esta cartita, te debo un chocolatito.</p>
+            <p>Amor no estes triste, quiero que estes feliz y que me des un abracito que dure 10 horas, me lo das? Y un besito. Te amo mucho y perdón si te hice sentir triste, te amo MUCHOOOOOOOOO. besito en la pancita.</p>
             <p>Con todo mi amor, Leo.</p>
         `,
         abrazo: `
